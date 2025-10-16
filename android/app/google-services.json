@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745920188178",
+    "project_id": "dekut-app-c87e0",
+    "storage_bucket": "dekut-app-c87e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745920188178:android:82d7dac9377ae5797fedcb",
+        "android_client_info": {
+          "package_name": "com.example.final_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnJJ_eqJMf5mSrAS_oZXj99izHhphfajY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
